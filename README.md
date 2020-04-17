@@ -1,5 +1,3 @@
-# Contact
-
 | | Tyler Godfrey |
 | ------ | ------ |
 | email | tyler.godfrey@gmail.com |
